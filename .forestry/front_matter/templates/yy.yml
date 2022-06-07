@@ -1,4 +1,8 @@
 ---
 label: yy
 hide_body: true
-fields: []
+fields:
+- name: yy7
+  type: field_group
+  config: {}
+  label: yy7
